@@ -14,7 +14,7 @@
 /**
  * robPrintMessage
  *
- * This function prints the message, "I really* love robots!"
+ * This function prints the message, "David and Derek really* loves robots!"
  *
  * @param num the number of times the message should print the word
  * "really"
