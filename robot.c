@@ -5,7 +5,7 @@
  * ~/robots example source for Software Engineering.
  *
  * @author Tanya L. Crenshaw
- * @since August 2013
+ * @since October 2014
  *
  */
 
@@ -25,11 +25,10 @@ void robPrintMessage(int num)
 {
   int i = 0;
 
-<<<<<<< HEAD
   printf("Derek ");
-=======
+
   printf("David Huynh ");
->>>>>>> 14e774b04a61b8a0eb80f1ee2fa678ded5128cd9
+
 
   for(i; i < num; i++)
     {
