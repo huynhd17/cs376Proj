@@ -5,7 +5,6 @@
  * ~/robots example source for Software Engineering.
  *
  * @author Derek Kellams & David Huynh
- * @author Derek Kellams & Mr. Huynh
  * @since October 2014
  *
  */
