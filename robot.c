@@ -4,6 +4,7 @@
  * A file that contains the supporting functions for main() in the
  * ~/robots example source for Software Engineering.
  *
+ * @author Derek Kellams & David Huynh
  * @author Derek Kellams & Mr. Huynh
  * @since October 2014
  *
